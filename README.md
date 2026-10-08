@@ -12,7 +12,7 @@ The project is built from scratch with a custom frontend, backend, database, mas
 
 ## Live Demo
 
-🔗 **Demo:** `ADD_YOUR_DEPLOYED_FRONTEND_LINK_HERE`
+🔗 **Demo:** `duolingo-clone-beta-one.vercel.app`
 
 ---
 
