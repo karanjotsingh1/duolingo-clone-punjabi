@@ -28,13 +28,6 @@ screenshots/
 └── profile.png
 ```
 
-You can then add them to this README using:
-
-```md
-![Learning Path](screenshots/learning-path.png)
-```
-
----
 
 ## Features
 
